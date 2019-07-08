@@ -1,0 +1,14 @@
+D:\System\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.exe.config
+D:\System\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.exe
+D:\System\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.pdb
+D:\System\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.csprojAssemblyReference.cache
+D:\System\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.csproj.CoreCompileInputs.cache
+D:\System\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.exe
+D:\System\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.pdb
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.exe.config
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.exe
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\bin\Debug\c_sharp_5.pdb
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.csprojAssemblyReference.cache
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.exe
+C:\Users\user\Dropbox\c_sharp_5-master\c_sharp_5\obj\Debug\c_sharp_5.pdb
